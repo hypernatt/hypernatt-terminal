@@ -1,3 +1,5 @@
+> **Moved.** This repository is no longer updated. The maintained repository is https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal
+
 # HyperNatt Terminal
 
 [![CI](https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal/actions/workflows/ci.yml/badge.svg)](https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal/actions/workflows/ci.yml)
